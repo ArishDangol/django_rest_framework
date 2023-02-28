@@ -1,1 +1,9 @@
-settings.py
+.settings.py.
+
+env/
+
+
+/companyapi/settings.py
+
+
+
